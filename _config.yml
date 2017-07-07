@@ -34,7 +34,7 @@ color:
 footer:
   copyright: Chuan-Chin Lai
   location: Location
-  social: Around the Web
+  social: 
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -42,14 +42,14 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/chuanchinlai/
   - title: gmail
-    url: chuanchinlai@gmail.com
+    url: mailto:chuanchinlai@gmail.com
   - title: github
     url: https://github.com/ChuanChinLai
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 130S, 1300E, #306
-  - line: Salt Lake City, UT 84102
+  - line: 
+  - line: 
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
