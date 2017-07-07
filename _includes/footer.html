@@ -16,9 +16,13 @@
                         <ul class="list-inline">
                             {% for network in site.social %}
                             <li>
-                                <a href="{{ network.url }}" class="btn-social btn-email"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                                <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
                             </li>
 		                    {% endfor %}
+							
+							<li>
+                                <a href="{{ mailto:chuanchinlai@gmail.com }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ email }}"></i></a>
+                            </li>						
                         </ul>
                     </div>
                     <div class="footer-col col-md-4">
