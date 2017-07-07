@@ -4,7 +4,7 @@ email: chuanchinlai@gmail.com
 url: https://chuanchinlai.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "A diligent self-learner and hard-worker"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -35,7 +35,7 @@ footer:
   copyright: Chuan-Chin Lai
   location: Location
   social: Around the Web
-#  credits: Credits
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
