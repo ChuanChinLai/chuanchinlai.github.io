@@ -17,13 +17,29 @@
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
+							
                                 <li>Team: 
-									<strong>{{ post.team }}</strong>
+									<strong>{{ post.team }}
+									</strong>
                                 </li>
+								
                                 <li>Tech:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    <strong>{{ post.category }}
                                     </strong>
                                 </li>
+				
+                                <li>Link:
+                                    <strong><a href={{ post.link }}> Trailer </a>
+                                    </strong>
+                                </li>
+
+				
+<!--                            <li>Tech:
+                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    </strong>
+                                </li>   -->
+
+						
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
