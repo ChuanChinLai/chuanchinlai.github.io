@@ -1,0 +1,10 @@
+---
+layout: default
+title: Strand
+modal-id: 3
+img: project_3.png
+alt: image-alt
+team: 6 members
+category: Unity
+description: Use this area 
+---
