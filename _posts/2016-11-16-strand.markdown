@@ -8,5 +8,10 @@ team: 6 members
 tool: Unity
 category: project
 link: http://gamejolt.com/games/strand/208079#close
-description: 
+description: <ul style="list-style-type:disc"> 
+                <li>First Person, 3D experiential horror game built in <b>Unity</b> </li> 
+                <li>Worked as a software engineer in a 12 people team </li> 
+                <li>Designed and implemented codes for <b>Gameplay</b> and <b>Events System</b> </li> 
+            </ul>
+
 ---

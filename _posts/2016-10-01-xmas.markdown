@@ -6,7 +6,13 @@ img: project_2.png
 alt: image-alt
 team: 6 members
 tool: HTML, JavaScript
-category: project
+category: Project
 link: http://www.chuanchinlai.com/XmasBASH/
-description: 
+
+description: <ul style="list-style-type:disc"> 
+                <li>2D arcade game built in <b>HTML</b> and <b>JavaScript</b> </li> 
+                <li>Worked as a software engineer in a 6 people team </li> 
+                <li>Designed and implemented codes for <b>Gameplay</b> and <b>Collision System</b> </li> 
+            </ul>
+
 ---

@@ -15,33 +15,31 @@
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            <p>{{ post.description }}</p>
-                            <ul class="list-inline item-details">
-							
-                                <li>Team: 
-									<strong>{{ post.team }}
-									</strong>
-                                </li>
-								
-                                <li>Tech:
-                                    <strong>{{ post.tool }}
-                                    </strong>
-                                </li>
-				
-                                <li>Link:
-                                    <strong><a href={{ post.link }}> {{ post.category }} </a>
-                                    </strong>
-                                </li>
 
-				
+                                <div align="left">
+                                    <p>{{ post.description }}</p>
+                                </div>
+                                
+                            <ul class="list-inline item-details">
+											
 <!--                            <li>Tech:
                                     <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
                                     </strong>
                                 </li>   -->
-
-						
                             </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+
+                            <div class="row">
+
+                                <div class="col-lg-4" align="center">
+                                    <a target="_blank" href = {{post.link}} class="btn btn-success"> <i class="fa fa-external-link-square"></i> {{ post.category }} </a>
+                                </div>
+
+                                <div class="col-lg-4 col-lg-offset-4" align="center">
+                                    <a data-dismiss="modal" class="btn btn-success"> <i class="fa fa-times"></i> Close </a>
+                                </div>
+
+                            </div>
+
                         </div>
                     </div>
                 </div>
