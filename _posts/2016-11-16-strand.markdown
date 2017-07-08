@@ -6,5 +6,6 @@ img: project_3.png
 alt: image-alt
 team: 6 members
 category: Unity
+link: http://gamejolt.com/games/strand/208079#close
 description: Use this area 
 ---
