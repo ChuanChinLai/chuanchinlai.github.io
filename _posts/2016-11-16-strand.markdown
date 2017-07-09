@@ -6,7 +6,7 @@ img: project_3.png
 alt: image-alt
 team: 6 members
 tool: Unity
-category: project
+category: Project
 link: http://gamejolt.com/games/strand/208079#close
 description: <ul style="list-style-type:disc"> 
                 <li>First Person, 3D experiential horror game built in <b>Unity</b> </li> 

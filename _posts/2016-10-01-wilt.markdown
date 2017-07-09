@@ -1,6 +1,6 @@
 ---
 layout: default
-title: WilT or Bloom
+title: Wilt or Bloom
 modal-id: 4
 img: project_4.png
 alt: image-alt
