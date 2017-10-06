@@ -1,0 +1,20 @@
+---
+layout: default
+title: Project Turing
+modal-id: 5
+img: project_5.png
+alt: image-alt
+team: 13 members
+tool: Unity
+category: Tool Demo
+embedlink: https://www.youtube.com/embed/D3TXnQAVuXk
+demolink: https://www.youtube.com/watch?v=rZ-_VZxRzi4&feature=youtu.be
+
+description: <ul style="list-style-type:disc">
+                <li><b>C#</b>, <b>Unity</b>, <b>PC Game</b></li>
+                <li>Worked as a software engineer in a 14 people team</li>
+                <li>Developed user-friendly tools for game designers and QA testers</li>
+                <li>Designed and implemented a level editor and a spawning toolkit with custom editors in Unity</b> </li>
+                </ul>
+
+---

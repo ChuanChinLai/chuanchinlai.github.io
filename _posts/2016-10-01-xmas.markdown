@@ -6,13 +6,14 @@ img: project_2.png
 alt: image-alt
 team: 6 members
 tool: HTML, JavaScript
-category: Project
-link: http://www.chuanchinlai.com/XmasBASH/
-
+category: Playable Demo
+embedlink: https://www.youtube.com/embed/-6vlLZuvc2g
+demolink: http://www.chuanchinlai.com/XmasBASH/
 description: <ul style="list-style-type:disc"> 
-                <li>2D arcade game built in <b>HTML</b> and <b>JavaScript</b> </li> 
-                <li>Worked as a software engineer in a 6 people team </li> 
-                <li>Designed and implemented codes for <b>Gameplay</b> and <b>Collision System</b> </li> 
+                <li><b>HTML</b>, <b>JavaScript</b>, <b>Web Game</b></li>
+                <li>Worked as a software engineer in a 6 people team</li>
+                <li>Created the rapid prototype in 20 hours and showed the team’s concept of gameplay features</li>
+                <li>Designed and implemented gameplay related functions based on the team’s plan and requirements</li>
             </ul>
 
 ---
