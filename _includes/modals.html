@@ -14,7 +14,7 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-<iframe id="youtube_player" width="640" height="360" src="http://www.youtube.com/embed/geTgZcHrXTc?enablejsapi=1&version=3&playerapiid=ytplayer" frameborder="0" allowfullscreen="true" allowscriptaccess="always"></iframe>
+<iframe width="640" height="360" src="http://www.youtube.com/embed/geTgZcHrXTc?enablejsapi=1&version=3&playerapiid=ytplayer" frameborder="0" allowfullscreen="true" allowscriptaccess="always"></iframe>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
 
                                 <div align="left">
@@ -36,7 +36,7 @@
                                 </div>
 
                                 <div class="col-lg-4 col-lg-offset-4" align="center">
-                                    <a id="stop" href="#"><strong>Stop The Video</strong></a>
+                                    <button type="button" class="btn" class="myModal">Basic</button>
                                     <a data-dismiss="modal" class="btn btn-success"> <i class="fa fa-times"></i> Close </a>
                                 </div>
 
@@ -51,10 +51,8 @@
 {% endfor %}
 
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script>
-$('#stop').on('click', function() {
-    //$('#popup-youtube-player').stopVideo();
- $('#youtube_player')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');   
-});
+<script type="text/javascript">
+    $('#myModal').on('hidden.bs.modal', function () {
+        callPlayer({{ post.modal-id }}, 'stopVideo');
+    });
 </script>
