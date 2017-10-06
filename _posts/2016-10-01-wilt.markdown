@@ -7,9 +7,8 @@ alt: image-alt
 team: 6 members
 tool: Unity
 category: Google Play
-embedlink: https://www.youtube.com/watch?v=YZTdBc_5QD8
+embedlink: https://www.youtube.com/embed/5u1ZGo38eU4
 demolink: https://play.google.com/store/apps/details?id=this.is.my.unique.bundle.identifier
-
 
 description: <ul style="list-style-type:disc"> 
                 <li><b>Unity</b>, <b>Mobile Game</b></li>
