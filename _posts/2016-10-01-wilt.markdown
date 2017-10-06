@@ -6,13 +6,15 @@ img: project_4.png
 alt: image-alt
 team: 6 members
 tool: Unity
-category: Trailer
-link: https://www.youtube.com/watch?v=YZTdBc_5QD8
+category: Google Play
+embedlink: https://www.youtube.com/watch?v=YZTdBc_5QD8
+demolink: https://play.google.com/store/apps/details?id=this.is.my.unique.bundle.identifier
+
+
 description: <ul style="list-style-type:disc"> 
-                <li>2D serious game built in <b>Unity</b> </li> 
+                <li><b>Unity</b>, <b>Mobile Game</b></li>
                 <li>Worked as a software engineer in a 6 people team </li> 
-                <li>Designed and implemented codes for <b>Gameplay</b> and <b>Dialogue System</b> </li> 
-                <li>Available on the <a href="https://play.google.com/store/apps/details?id=this.is.my.unique.bundle.identifier">GooglePlay</a></li> 
-             </ul>
+                <li>Designed and implemented codes for <b>Gameplay</b> and <b>Dialogue System</b> </li>
+                </ul>
 
 ---
