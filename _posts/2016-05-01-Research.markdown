@@ -1,0 +1,22 @@
+---
+layout: default
+title: Research
+modal-id: 6
+img: project_6.png
+alt: image-alt
+team: 1 members
+tool: C++
+category: Publication
+embedlink: http://iopscience.iop.org/article/10.3847/0004-637X/825/1/40/meta
+demolink: http://iopscience.iop.org/article/10.3847/0004-637X/825/1/40/pdf
+
+
+description: <ul style="list-style-type:disc">
+                <li><b>C/C++</b>, <b>Python</b>, <b>Linux</b></li>
+                <li>Reduced execution time from days to hours by using a computer cluster</li>
+                <li>Designed and implemented a high performance computing toolkit with parallel computing APIs</li>
+                <li>Designed and implemented data processing and visualization pipelines with scientific computing APIs</li>
+                <li>Solved an astrophysical problem and published research findings in The Astrophysical Journal</li>
+                </ul>
+
+---
