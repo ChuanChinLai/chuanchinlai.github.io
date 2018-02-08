@@ -7,7 +7,7 @@ alt: image-alt
 team: 13 members
 tool: Unity
 category: Tool Demo
-embedlink: https://www.youtube.com/watch?v=HRMAy_Kf9Mw
+embedlink: https://www.youtube.com/embed/HRMAy_Kf9Mw
 demolink: https://www.youtube.com/watch?v=rZ-_VZxRzi4&feature=youtu.be
 
 description: <ul style="list-style-type:disc">
