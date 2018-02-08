@@ -1,20 +1,21 @@
 ---
 layout: default
-title: Project Turing
+title: Claw Face
 modal-id: 5
 img: project_5.png
 alt: image-alt
 team: 13 members
 tool: Unity
 category: Tool Demo
-embedlink: https://www.youtube.com/embed/D3TXnQAVuXk
+embedlink: https://www.youtube.com/watch?v=HRMAy_Kf9Mw
 demolink: https://www.youtube.com/watch?v=rZ-_VZxRzi4&feature=youtu.be
 
 description: <ul style="list-style-type:disc">
                 <li><b>C#</b>, <b>Unity</b>, <b>PC Game</b></li>
-                <li>Worked as a software engineer in a 14 people team</li>
-                <li>Developed user-friendly tools for game designers and QA testers</li>
-                <li>Designed and implemented a level editor and a spawning toolkit with custom editors in Unity</b> </li>
+                <li>An unannounced title releasing in 2018</li>
+                <li>Designed and implemented user-friendly tools for game designers and QA testers</li>
+                <li>Reduced average testing time from hours to minutes after developing a level editor tool</li>
+                <li>Automated texture2D builder, reduced average efforts from 10 man minutes to 2 machine minutes</li>
                 </ul>
 
 ---
